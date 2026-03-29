@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast banquet hall viewed from above. The entire left three-quarters of the image shows hundreds of tiny, skeletal, grey silhouetted figures huddled together on a bare floor, sharing a single small piece of bread, their emptiness overwhelming. The right quarter of the image shows one single large, well-dressed golden silhouette seated alone at a table overflowing with food, wealth, and light — radiating warmth and abundance. A sharp invisible line divides them. The lighting is cold and blue-grey on the left, warm and golden on the right. The sheer number of figures on the left versus the one on the right makes the injustice visceral and immediate. No text. No labels. No axes. No charts. No numbers. Painterly editorial illustration. Muted palette except for the golden warmth on the right. Single frame. Emotionally devastating. Negative prompt: text, labels, numbers, bar chart, pie chart, graph, axes, legend, title, watermark, border, frame, arrows, icons, blurry, low quality, cartoon, childish, colorful, cheerful, symmetrical, happy",
+  "model": "Ideogram 2",
+  "dataset_name": "World Inequality Database — Global Income Distribution 1980–2016",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "Between 1980 and 2016, the global top 1% captured more than twice the income growth of the entire bottom 50% of humanity combined."
+}
