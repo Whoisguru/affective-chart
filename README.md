@@ -1,2 +1,2 @@
-# affective-chart
+# Affective Chart
 IITM Image Generation Tasks
